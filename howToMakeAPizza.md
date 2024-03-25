@@ -1,4 +1,4 @@
-
+## PASOS PARA HACER UNA PIZZA 🍕
 
 
 
@@ -10,5 +10,5 @@
     Ponerla dentro del horno y acomodarla 
     Dejar hornear por 20 min
 
-## PASOS PARA HACER UNA PIZZA 🍕
+
 
