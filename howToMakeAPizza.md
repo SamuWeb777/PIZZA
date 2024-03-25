@@ -10,6 +10,9 @@
     -Huevo 
 
 
+2. Preparar la pizza
+    -Poner salsa en la masa
+    -Poner queso a la salsa
 
 3.  Hornear la pizza:
     Una vez precalentado el horno y la pizza esta con sus ingredientes,
