@@ -23,6 +23,9 @@
     Ponerla dentro del horno y acomodarla. 
     Dejar hornear por 20 minutos
 
+4. Sacar la pizza del horno servirla en un plato cortarla en 8 parte y comer la pizza
+
+
 
 
 
